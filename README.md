@@ -3,21 +3,21 @@
 
 ### :heavy_check_mark: Instalação do ambiente:
 - [x] Intalação do Node versão Estavel
-- [ ] Instalar o typescript: npm install -g typescript 
-- [ ] Criar arquivo tsconfig
-- [ ] Criar o index.ts
+- [x] Instalar o typescript: npm install -g typescript 
+- [x] Criar arquivo tsconfig
+- [x] Criar o index.ts
 - [ ] Transpilar o Código para JS
 - [ ] quick fix
 
 
 ### :heavy_check_mark: definir tipos:
-- [ ] Exercicio 1:
+- [x] Exercicio 1:
 ```js
 const primeiroNome = "seu nome";
 const diaDoMes = 12;
 const hojeFezSol = true;
 ```
-- [ ] Exercicio 2:
+- [x] Exercicio 2:
 ```js
 type Cachorrro = {
   nome: ?
