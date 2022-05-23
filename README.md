@@ -6,7 +6,7 @@
 - [x] Instalar o typescript: npm install -g typescript 
 - [x] Criar arquivo tsconfig
 - [x] Criar o index.ts
-- [ ] Transpilar o Código para JS
+- [x] Transpilar o Código para JS
 - [ ] quick fix
 
 
@@ -35,9 +35,9 @@ interface Animais {
 }
 ```
 
-- [ ] Exercicio 3:
+- [x] Exercicio 3:
 Criar um type com a função Omit, uma com Partial  e uma com Optional
 
 
 ### :heavy_check_mark: Avaliação do que foi criado?
-- [ ] Implementar criando funções
+- [x] Implementar criando funções
